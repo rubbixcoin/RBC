@@ -7,11 +7,6 @@ Some more tools for people building stuff around Rubbix_Blocks :)<br/>
 This basically allows you to build transactions and sign them directly from your application, without the need of interacting with Rubbix_Blocks node. 
 </p>
 
-<h3>Usage</h3>
-<p>
-<pre>git clone ...</pre>
-You can see some examples at the Tests folder. I may put some more here at the README in the future, when I have a minute :P
-</p>
 
 <h3>Dependencies</h3>
 <p>
